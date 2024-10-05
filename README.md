@@ -2,8 +2,6 @@
 
 ## This Web based Application is made using PHP as core backend and MySQL as a relational database
 
-
-
 **Setup and Installation**
 
 1. Download XAMPP [click here](https://www.apachefriends.org/download.html)
@@ -31,6 +29,3 @@
 ![landing page](https://github.com/rahulvanmali21/jobmania/blob/master/screenshots/10.png)
 ![landing page](https://github.com/rahulvanmali21/jobmania/blob/master/screenshots/11.png)
 ![landing page](https://github.com/rahulvanmali21/jobmania/blob/master/screenshots/12.png)
-
-
-
